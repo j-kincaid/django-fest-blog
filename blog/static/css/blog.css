@@ -1,0 +1,63 @@
+    body {
+        background-color: #724c85;
+        color: #fff;
+    }
+    
+    .page-header {
+        background-color: #1E374C;
+        margin-top: 0;
+        padding: 20px 20px 20px 40px;
+        border-bottom: 20px solid #039486;
+    }
+    
+    .page-header h1,
+    .page-header h1 a,
+    .page-header h1 a:visited,
+    .page-header h1 a:active {
+        color: #f02669;
+        font-size: 48pt;
+        font-weight: bold;
+        text-shadow: 1px 2px #fff;
+        text-decoration: none;
+    }
+    
+    .page-header h1 span,
+    .page-header h1 span a {
+        font-family: 'Yellowtail', cursive;
+        font-weight: lighter;
+        margin-left: -12px;
+    }
+    
+    .content {
+        margin-left: 40px;
+    }
+    
+    .save {
+        float: right;
+    }
+    
+    .post-form textarea,
+    .post-form input {
+        width: 100%;
+    }
+    
+    .top-menu,
+    .top-menu:hover,
+    .top-menu:visited {
+        color: #ffffff;
+        float: right;
+        font-size: 26pt;
+        margin-right: 20px;
+    }
+    
+    .post {
+        margin-bottom: 70px;
+    }
+    
+    .post h2 a {
+        color: #009875;
+    }
+    
+    .post h2 a:visited {
+        color: #002B2D;
+    }
