@@ -1,13 +1,16 @@
     body {
-        background-color: #724c85;
+        /* background-color: #724c85; */
+        background-color: #002B2D;
         color: #fff;
     }
     
     .page-header {
-        background-color: #1E374C;
+        background-color: #895C9F;
+        /* background-color: #1E374C; */
         margin-top: 0;
         padding: 20px 20px 20px 40px;
         border-bottom: 20px solid #039486;
+        /* border-bottom: 20px solid #895C9F; */
     }
     
     .page-header h1,
@@ -56,8 +59,13 @@
     
     .post h2 a {
         color: #009875;
+        text-decoration: none;
+    }
+    
+    .post h2 a:hover {
+        color: #fff;
     }
     
     .post h2 a:visited {
-        color: #002B2D;
+        color: #895C9F;
     }
